@@ -1,0 +1,1 @@
+# Crop-Management-and-Disease-Detection-Using-Machine-Learning-
