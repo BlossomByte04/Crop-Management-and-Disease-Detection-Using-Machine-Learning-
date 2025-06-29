@@ -117,5 +117,5 @@ print("Predicted disease:", predicted)
 - ResNet Paper: https://arxiv.org/abs/1512.03385
 
 ------------------------------------------------------------
-🌱 Supports SDG Goal 2: Zero Hunger
+🌱 Supports SDG Goal 2: Zero Hunger, by improving agriculture resilience through technology.
 ------------------------------------------------------------
