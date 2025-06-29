@@ -32,8 +32,8 @@ A deep learning-based plant disease classification and management tool using **R
 
 1️⃣ Clone the Repository
 ------------------------
-git clone https://github.com/BlossomByte04/Crop-Disease-Detection-Management-System.git
-cd Crop-Disease-Detection-Management-System
+git clone [https://github.com/BlossomByte04/Crop-Disease-Detection-Management-System.git
+cd Crop-Management-and-Disease-Detection-Using-Machine-Learning-
 
 2️⃣ Set Up Python Environment (Optional but Recommended)
 ---------------------------------------------------------
