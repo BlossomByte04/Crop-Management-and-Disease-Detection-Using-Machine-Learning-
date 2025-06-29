@@ -1,5 +1,5 @@
 
-🌾 Crop Disease Detection & Management System
+🌾Crop Management and Disease Detection Using Machine Learning
 ============================================
 
 A deep learning-based plant disease classification and management tool using **ResNet-9** and **PyTorch**  
